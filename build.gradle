@@ -3,6 +3,7 @@
 buildscript {
     ext {
         play_services_version = '8.4.0'
+        support_library_version = '23.1.1'
     }
 
     repositories {
